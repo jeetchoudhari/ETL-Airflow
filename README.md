@@ -13,4 +13,6 @@
 1. Install Astro
 2. Create folder -> Initialize empty project(astro dev init)
 3. Create new py file in dags
-4. 
+4. Write ETL code (functions, tasks)
+5. Create Docker compose file
+6. Run "astro dev start"
